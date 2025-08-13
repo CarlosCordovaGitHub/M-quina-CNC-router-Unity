@@ -1,0 +1,33 @@
+# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild*/
+[Ll]ogs/
+UserSettings/
+[Mm]emoryCaptures/
+[Dd]erivedDataCache/
+
+# Autogenerados
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+
+# IDE
+.vscode/
+.idea/
+.Rider/
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Si generas addressables/bundles fuera de Assets
+[Bb]undle*/
